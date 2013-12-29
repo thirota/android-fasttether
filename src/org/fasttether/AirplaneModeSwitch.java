@@ -53,7 +53,7 @@ public class AirplaneModeSwitch {
 		final boolean before = getCurrentMode();
 		if (before == after) {
 			Log.i(TAG, "airplaneMode alreay "
-					+ (before ? "enabled" : "diabled"));
+					+ (before ? "enabled" : "disabled"));
 			return;
 		}
 
