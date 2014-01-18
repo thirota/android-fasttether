@@ -1,6 +1,8 @@
 # FastTether
 
-Simple Android application turning on/off tethering and airplane mode.
+Simple utility to toggle tethering and airplane mode.
+
+![off](android-fasttether-off.png) ![on](android-fasttether-on.png)
 
 ## Platform
 
@@ -14,8 +16,9 @@ Android 2.2 or later
 
 I have a mobile device - IDEOS for tethering only.  
 I normally set it offline mode and set online only for using tethering.  
-I wanted this operation easy and searched application in Google Play.  
-But I could not find good app, so I developed this application for myself.  
+I wanted to make this annoying operation easy.  
+I searched for applications in Google Play, but could not find good app.  
+So I developed this application for myself.  
 It's very useful!  
 
 ## Author
