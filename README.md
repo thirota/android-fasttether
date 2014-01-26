@@ -14,12 +14,9 @@ Android 2.2 or later
 
 ## Background
 
-I have a mobile device - IDEOS for tethering only.  
-I normally set it offline mode and set online only for using tethering.  
-I wanted to make this annoying operation easy.  
-I searched for applications in Google Play, but could not find good app.  
-So I developed this application for myself.  
-It's very useful!  
+I have a mobile device - HUEWAY IDEOS which is usually set offline and be set online for only tethering.  
+This operation is annoying, so I developed this utility.  
+Just tap the icon!
 
 ## Author
 
